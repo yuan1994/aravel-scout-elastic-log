@@ -1,0 +1,11 @@
+{
+    "name": "yuan1994/laravel-scout-elastic-log",
+    "require": {
+        "tamayo/laravel-scout-elastic": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Yuan1994\\Scout\\Elasticsearch\\": "src/"
+        }
+    }
+}
